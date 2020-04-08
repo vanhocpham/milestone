@@ -1,0 +1,29 @@
+{
+  "name": "milestone",
+  "homepage": "https://cv.vanhocpham.me",
+  "authors": [
+    "hoc-anms <phamvanhoc96@gmail.com>"
+  ],
+  "description": "cv",
+  "main": "index.html",
+  "keywords": [
+    "cv",
+    "hocanm",
+    "hocpv",
+    "vanhocpham",
+    "nodejs",
+    "developer"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pagepiling.js": "~0.0.7"
+  }
+}
